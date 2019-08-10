@@ -21,6 +21,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "rules": {
+    "linebreak-style": 0,
+    "global-require": 0
+  },
   "browserslist": {
     "production": [
       ">0.2%",
